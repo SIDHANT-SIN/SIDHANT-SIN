@@ -13,10 +13,13 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SIDHant_sin&theme=github_dark&force_username=true&border_color=404040)](https://codeforces.com/profile/SIDHant_sin)
 
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/sidhantsinghss?v=1)](https://www.codechef.com/users/sidhantsinghss)
-
 </div>
 
+ <div>
+    <a href="https://www.codechef.com/users/sidhantsinghss" target="_blank" rel="noopener noreferrer">
+      <img src="https://codechef-readme-stats.onrender.com/sidhantsinghss?v=1" alt="CodeChef Stats" />
+    </a>
+  </div>
 ---
 
 ## 🧩 Technologies Worked With
