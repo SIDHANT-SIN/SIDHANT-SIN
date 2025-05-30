@@ -20,8 +20,8 @@
       <img src="https://codechef-readme-stats.onrender.com/sidhantsinghss?v=1" alt="CodeChef Stats" />
     </a>
   </div>
----
 
+---
 ## 🧩 Technologies Worked With
 
 <p align="center">
