@@ -9,11 +9,23 @@
 
 ## 📈 Coding Profiles
 
-<div>
+<div style="display: flex; align-items: center;">
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SIDHant_sin&theme=github_dark&force_username=true&border_color=404040)](https://codeforces.com/profile/SIDHant_sin)
+  <a href="https://codeforces.com/profile/SIDHant_sin" style="margin-right: 100px;">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SIDHant_sin&theme=github_dark&force_username=true&border_color=404040" 
+         alt="Codeforces Stats" 
+         style="height: 300px;" />
+  </a>
+
+  <a href="https://leetcode.com/sidhantsinghss54321/">
+    <img src="https://leetcard.jacoblin.cool/sidhantsinghss54321?theme=dark&ext=contest" 
+         alt="Leetcode Stats" 
+         style="height: 300px;" />
+  </a>
 
 </div>
+
+
 
  <div>
     <a href="https://www.codechef.com/users/sidhantsinghss" target="_blank" rel="noopener noreferrer">
@@ -32,9 +44,12 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" />
 </p>
