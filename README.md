@@ -27,11 +27,7 @@
 
 
 
- <div>
-    <a href="https://www.codechef.com/users/sidhantsinghss" target="_blank" rel="noopener noreferrer">
-      <img src="https://codechef-readme-stats.onrender.com/sidhantsinghss?v=1" alt="CodeChef Stats" />
-    </a>
-  </div>
+
 
 ---
 ## 🧩 Technologies Worked With
